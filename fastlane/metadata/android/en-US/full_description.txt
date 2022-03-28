@@ -25,4 +25,4 @@ This project is licensed under AGPL-3.0.
 
 Even though some developers of this project are part of the <i>StudVer</i>
 (student council) of the THI, this project is not part of, developed for or
-supported by the StudVer or the THI..
+supported by the StudVer or the THI.
